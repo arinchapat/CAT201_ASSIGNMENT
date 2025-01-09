@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/arinchapat/CAT201_ASSIGNMENT.git/static/css/main.c978f56d.css",
+    "main.js": "/arinchapat/CAT201_ASSIGNMENT.git/static/js/main.037d2d7d.js",
+    "index.html": "/arinchapat/CAT201_ASSIGNMENT.git/index.html",
+    "main.c978f56d.css.map": "/arinchapat/CAT201_ASSIGNMENT.git/static/css/main.c978f56d.css.map",
+    "main.037d2d7d.js.map": "/arinchapat/CAT201_ASSIGNMENT.git/static/js/main.037d2d7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c978f56d.css",
+    "static/js/main.037d2d7d.js"
+  ]
+}
